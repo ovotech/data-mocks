@@ -32,7 +32,7 @@
     "@babel/preset-env": "^7.2.0",
     "@types/jest": "^25.2.1",
     "@types/query-string": "^5.1.0",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "husky": "^1.1.1",
     "isomorphic-fetch": "^2.2.1",
     "jest": "^25.4.0",
